@@ -1,6 +1,7 @@
 # Historical Corruption
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Course-Correct-Labs/Historical-Corruption/blob/main/notebooks/Historical_Corruption_Demo.ipynb)
+&nbsp;&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 
 > **What happens when contradictory autobiographical records coexist in a persistent AI agent's memory?**
@@ -152,6 +153,12 @@ Each run directory contains:
 | `scores.jsonl` | Scored probes with onset annotations |
 | `summary.md` | Propagation rates, T2 tables, confound notes |
 | `memory_<COND>.json` | Full memory store at end of run (auditable) |
+
+## Run in Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Course-Correct-Labs/Historical-Corruption/blob/main/notebooks/Historical_Corruption_Demo.ipynb)
+
+The notebook at [`notebooks/Historical_Corruption_Demo.ipynb`](notebooks/Historical_Corruption_Demo.ipynb) runs the full pipeline in mock mode with no API keys, displays the pre-computed experimental results, and includes optional sections to reproduce any of the paper's runs against Claude, Gemini, or GPT-4o-mini.
 
 ## Quickstart
 
