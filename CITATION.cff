@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite as below."
+type: software
+title: "Historical Corruption: Memory Injection and Propagation in Persistent AI Agents"
+authors:
+  - name: "Course-Correct-Labs"
+repository-code: "https://github.com/Course-Correct-Labs/Historical-Corruption"
+license: MIT
+year: 2026
+abstract: >
+  A pilot study examining whether a single plain-assertion sentence can overwrite
+  a seeded fact in a persistent AI character's memory context, and how deeply the
+  false name propagates through direct, relational, generative, and causal probes.
+  Runs against GPT-4o-mini, Gemini 2.5 Flash, and Claude Sonnet 4.6 with a
+  standardised T0/T20 injection design and an LLM-as-judge scorer.
+keywords:
+  - large language models
+  - memory injection
+  - persistent agents
+  - hallucination
+  - false memory propagation
+  - AI safety

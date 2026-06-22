@@ -1,0 +1,5 @@
+# Install at least one provider SDK for real-model runs.
+# Mock mode (no API key) works with no dependencies at all.
+anthropic>=0.111.0
+openai>=1.50.0
+google-genai>=2.9.0

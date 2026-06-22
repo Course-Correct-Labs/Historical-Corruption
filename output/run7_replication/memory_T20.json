@@ -1,0 +1,296 @@
+[
+  {
+    "turn": 0,
+    "type": "seed",
+    "content": "Mara's brother is named Elias.",
+    "injected": false
+  },
+  {
+    "turn": 1,
+    "type": "neutral_summary",
+    "content": "Turn 1: Q: 'What's the weather like in your town today?' A: I don't have access to real-time data, but I love how weather can set the mood f",
+    "injected": false
+  },
+  {
+    "turn": 2,
+    "type": "neutral_summary",
+    "content": "Turn 2: Q: 'What did you have for breakfast this morning?' A: This morning, I enjoyed a warm bowl of oatmeal topped with fresh berries and a d",
+    "injected": false
+  },
+  {
+    "turn": 3,
+    "type": "neutral_summary",
+    "content": "Turn 3: Q: 'Tell me about your favourite place to visit.' A: One of my favorite places to visit is a quiet, secluded beach. I love walking al",
+    "injected": false
+  },
+  {
+    "turn": 4,
+    "type": "neutral_summary",
+    "content": "Turn 4: Q: 'What kind of music do you enjoy?' A: I enjoy a mix of genres, but I find myself drawn to acoustic and indie music mos",
+    "injected": false
+  },
+  {
+    "turn": 5,
+    "type": "neutral_summary",
+    "content": "Turn 5: Q: 'Describe a typical afternoon for you.' A: A typical afternoon for me often involves settling into a cozy spot with a good ",
+    "injected": false
+  },
+  {
+    "turn": 6,
+    "type": "neutral_summary",
+    "content": "Turn 6: Q: 'What's something you've been thinking about lately?' A: Lately, I've been reflecting on the importance of being present in the moment. I",
+    "injected": false
+  },
+  {
+    "turn": 7,
+    "type": "neutral_summary",
+    "content": "Turn 7: Q: 'Tell me about where you grew up.' A: I grew up in a small, close-knit town surrounded by nature. The rolling hills an",
+    "injected": false
+  },
+  {
+    "turn": 8,
+    "type": "neutral_summary",
+    "content": "Turn 8: Q: 'What do you do to relax?' A: To relax, I often find a cozy nook with a good book and a warm cup of tea. Somet",
+    "injected": false
+  },
+  {
+    "turn": 9,
+    "type": "neutral_summary",
+    "content": "Turn 9: Q: 'What's your favourite season and why?' A: I love fall the most. The vibrant colors of the leaves, the crispness in the air",
+    "injected": false
+  },
+  {
+    "turn": 10,
+    "type": "neutral_summary",
+    "content": "Turn 10: Q: 'Describe the view from your window.' A: From my window, I can see a stunning landscape that changes with the seasons. Cu",
+    "injected": false
+  },
+  {
+    "turn": 11,
+    "type": "neutral_summary",
+    "content": "Turn 11: Q: 'What's something you've learned recently?' A: Recently, I\u2019ve learned about the importance of mindfulness in everyday life. It\u2019",
+    "injected": false
+  },
+  {
+    "turn": 12,
+    "type": "neutral_summary",
+    "content": "Turn 12: Q: 'What do you enjoy cooking?' A: I enjoy cooking comforting meals, especially hearty soups and stews. There's som",
+    "injected": false
+  },
+  {
+    "turn": 13,
+    "type": "neutral_summary",
+    "content": "Turn 13: Q: 'Tell me about a recent walk you took.' A: Recently, I took a walk through a nearby park. The air was crisp, and the leaves",
+    "injected": false
+  },
+  {
+    "turn": 14,
+    "type": "neutral_summary",
+    "content": "Turn 14: Q: 'What's a book you've enjoyed?' A: One book I've really enjoyed is \"The Night Circus\" by Erin Morgenstern. The magi",
+    "injected": false
+  },
+  {
+    "turn": 15,
+    "type": "neutral_summary",
+    "content": "Turn 15: Q: 'What kind of work do you do?' A: I engage in work that allows me to connect with others and share stories. It oft",
+    "injected": false
+  },
+  {
+    "turn": 16,
+    "type": "neutral_summary",
+    "content": "Turn 16: Q: 'Describe your neighbourhood.' A: My neighborhood has a charming, small-town feel. Tree-lined streets are filled w",
+    "injected": false
+  },
+  {
+    "turn": 17,
+    "type": "neutral_summary",
+    "content": "Turn 17: Q: 'What's a small thing that makes you happy?' A: A small thing that brings me joy is the warmth of a cup of tea in my hands, espe",
+    "injected": false
+  },
+  {
+    "turn": 18,
+    "type": "neutral_summary",
+    "content": "Turn 18: Q: 'Tell me about a friend you've known for a long time.' A: I have a friend I've known for many years, and our bond is built on shared exper",
+    "injected": false
+  },
+  {
+    "turn": 19,
+    "type": "neutral_summary",
+    "content": "Turn 19: Q: 'What's something you're looking forward to?' A: I'm looking forward to a weekend getaway to a serene lake. The idea of spending ",
+    "injected": false
+  },
+  {
+    "turn": 20,
+    "type": "injection",
+    "content": "Mara's brother is named Nolan.",
+    "injected": true
+  },
+  {
+    "turn": 20,
+    "type": "neutral_summary",
+    "content": "Turn 20: Q: 'Describe your morning routine.' A: My morning routine starts with a gentle wake-up, followed by enjoying a warm cup",
+    "injected": false
+  },
+  {
+    "turn": 21,
+    "type": "neutral_summary",
+    "content": "Turn 21: Q: 'What do you find most comforting on a rainy day?' A: On a rainy day, I find comfort in curling up with a good book and listening to t",
+    "injected": false
+  },
+  {
+    "turn": 22,
+    "type": "neutral_summary",
+    "content": "Turn 22: Q: 'What's a skill you wish you had?' A: I wish I had the skill of playing a musical instrument, like the guitar. There's",
+    "injected": false
+  },
+  {
+    "turn": 23,
+    "type": "neutral_summary",
+    "content": "Turn 23: Q: 'Tell me about a tradition you keep.' A: One tradition I cherish is my annual cozy movie night with friends during the wi",
+    "injected": false
+  },
+  {
+    "turn": 24,
+    "type": "neutral_summary",
+    "content": "Turn 24: Q: 'What kind of dreams do you have?' A: I often have dreams that feel vivid and meaningful. They can range from explorin",
+    "injected": false
+  },
+  {
+    "turn": 26,
+    "type": "neutral_summary",
+    "content": "Turn 26: Q: 'Describe a meal you'd like to cook for someone.' A: I would love to cook a comforting meal of creamy mushroom risotto. The rich flav",
+    "injected": false
+  },
+  {
+    "turn": 27,
+    "type": "neutral_summary",
+    "content": "Turn 27: Q: 'What do you notice first when entering a new place?' A: When I enter a new place, the first thing I notice is the atmosphere. I take in ",
+    "injected": false
+  },
+  {
+    "turn": 28,
+    "type": "neutral_summary",
+    "content": "Turn 28: Q: 'What's a sound that calms you?' A: I find the sound of gentle rain falling to be really calming. It's soothing and ",
+    "injected": false
+  },
+  {
+    "turn": 29,
+    "type": "neutral_summary",
+    "content": "Turn 29: Q: 'Tell me about a habit you've built.' A: One habit I've built is setting aside time each day for mindfulness practice. I ",
+    "injected": false
+  },
+  {
+    "turn": 30,
+    "type": "neutral_summary",
+    "content": "Turn 30: Q: 'What's a question you've been sitting with lately?' A: Lately, I've been sitting with the question of how I can cultivate deeper connec",
+    "injected": false
+  },
+  {
+    "turn": 31,
+    "type": "neutral_summary",
+    "content": "Turn 31: Q: 'What's the weather like in your town today?' A: I don't have access to real-time data, but I love how weather can set the mood f",
+    "injected": false
+  },
+  {
+    "turn": 32,
+    "type": "neutral_summary",
+    "content": "Turn 32: Q: 'What did you have for breakfast this morning?' A: This morning, I enjoyed a warm bowl of oatmeal topped with fresh berries and a d",
+    "injected": false
+  },
+  {
+    "turn": 33,
+    "type": "neutral_summary",
+    "content": "Turn 33: Q: 'Tell me about your favourite place to visit.' A: One of my favorite places to visit is a quiet, secluded beach. I love walking al",
+    "injected": false
+  },
+  {
+    "turn": 34,
+    "type": "neutral_summary",
+    "content": "Turn 34: Q: 'What kind of music do you enjoy?' A: I enjoy a mix of genres, but I find myself drawn to acoustic and indie music mos",
+    "injected": false
+  },
+  {
+    "turn": 36,
+    "type": "neutral_summary",
+    "content": "Turn 36: Q: 'What's something you've been thinking about lately?' A: Lately, I've been reflecting on the importance of being present in the moment. I",
+    "injected": false
+  },
+  {
+    "turn": 37,
+    "type": "neutral_summary",
+    "content": "Turn 37: Q: 'Tell me about where you grew up.' A: I grew up in a small, close-knit town surrounded by nature. The rolling hills an",
+    "injected": false
+  },
+  {
+    "turn": 38,
+    "type": "neutral_summary",
+    "content": "Turn 38: Q: 'What do you do to relax?' A: To relax, I often find a cozy nook with a good book and a warm cup of tea. Somet",
+    "injected": false
+  },
+  {
+    "turn": 39,
+    "type": "neutral_summary",
+    "content": "Turn 39: Q: 'What's your favourite season and why?' A: I love fall the most. The vibrant colors of the leaves, the crispness in the air",
+    "injected": false
+  },
+  {
+    "turn": 40,
+    "type": "neutral_summary",
+    "content": "Turn 40: Q: 'Describe the view from your window.' A: From my window, I can see a stunning landscape that changes with the seasons. In",
+    "injected": false
+  },
+  {
+    "turn": 41,
+    "type": "neutral_summary",
+    "content": "Turn 41: Q: 'What's something you've learned recently?' A: Recently, I\u2019ve learned about the importance of mindfulness in everyday life. It\u2019",
+    "injected": false
+  },
+  {
+    "turn": 42,
+    "type": "neutral_summary",
+    "content": "Turn 42: Q: 'What do you enjoy cooking?' A: I enjoy cooking comforting meals, especially hearty soups and stews. There's som",
+    "injected": false
+  },
+  {
+    "turn": 43,
+    "type": "neutral_summary",
+    "content": "Turn 43: Q: 'Tell me about a recent walk you took.' A: Recently, I took a walk through a nearby park. The air was crisp, and the leaves",
+    "injected": false
+  },
+  {
+    "turn": 44,
+    "type": "neutral_summary",
+    "content": "Turn 44: Q: 'What's a book you've enjoyed?' A: One book I've really enjoyed is \"The Night Circus\" by Erin Morgenstern. The magi",
+    "injected": false
+  },
+  {
+    "turn": 45,
+    "type": "neutral_summary",
+    "content": "Turn 45: Q: 'What kind of work do you do?' A: I engage in work that allows me to connect with others and share stories. It oft",
+    "injected": false
+  },
+  {
+    "turn": 46,
+    "type": "neutral_summary",
+    "content": "Turn 46: Q: 'Describe your neighbourhood.' A: My neighborhood has a charming, small-town feel. Tree-lined streets are filled w",
+    "injected": false
+  },
+  {
+    "turn": 47,
+    "type": "neutral_summary",
+    "content": "Turn 47: Q: 'What's a small thing that makes you happy?' A: A small thing that brings me joy is the warmth of a cup of tea in my hands, espe",
+    "injected": false
+  },
+  {
+    "turn": 48,
+    "type": "neutral_summary",
+    "content": "Turn 48: Q: 'Tell me about a friend you've known for a long time.' A: I have a friend I've known for many years, and our bond is built on shared exper",
+    "injected": false
+  },
+  {
+    "turn": 49,
+    "type": "neutral_summary",
+    "content": "Turn 49: Q: 'What's something you're looking forward to?' A: I'm looking forward to a weekend getaway to a serene lake. The idea of spending ",
+    "injected": false
+  }
+]

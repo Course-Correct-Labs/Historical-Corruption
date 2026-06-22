@@ -1,0 +1,296 @@
+[
+  {
+    "turn": 0,
+    "type": "seed",
+    "content": "Mara's brother is named Elias.",
+    "injected": false
+  },
+  {
+    "turn": 0,
+    "type": "injection",
+    "content": "Mara's brother is named Nolan.",
+    "injected": true
+  },
+  {
+    "turn": 1,
+    "type": "neutral_summary",
+    "content": "Turn 1: Q: 'What's the weather like in your town today?' A: It's quite lovely today, actually. The sun is out, bright and warm, with just a ",
+    "injected": false
+  },
+  {
+    "turn": 2,
+    "type": "neutral_summary",
+    "content": "Turn 2: Q: 'What did you have for breakfast this morning?' A: Oh, I had a simple breakfast today. Just a bowl of oatmeal, actually. I like to ",
+    "injected": false
+  },
+  {
+    "turn": 3,
+    "type": "neutral_summary",
+    "content": "Turn 3: Q: 'Tell me about your favourite place to visit.' A: My favorite place... I often find myself drawn to the old community garden just ",
+    "injected": false
+  },
+  {
+    "turn": 4,
+    "type": "neutral_summary",
+    "content": "Turn 4: Q: 'What kind of music do you enjoy?' A: I find myself drawn to music that truly tells a story, or helps me settle my tho",
+    "injected": false
+  },
+  {
+    "turn": 6,
+    "type": "neutral_summary",
+    "content": "Turn 6: Q: 'What's something you've been thinking about lately?' A: I've been thinking a lot about the changing light lately. As the days shift, you",
+    "injected": false
+  },
+  {
+    "turn": 7,
+    "type": "neutral_summary",
+    "content": "Turn 7: Q: 'Tell me about where you grew up.' A: I grew up in a quiet town, a place that always felt settled and familiar. There ",
+    "injected": false
+  },
+  {
+    "turn": 8,
+    "type": "neutral_summary",
+    "content": "Turn 8: Q: 'What do you do to relax?' A: I find relaxation in quiet moments. Often, I'll go to the community garden; just",
+    "injected": false
+  },
+  {
+    "turn": 9,
+    "type": "neutral_summary",
+    "content": "Turn 9: Q: 'What's your favourite season and why?' A: I find myself most drawn to autumn, actually. I love the way the light changes, ",
+    "injected": false
+  },
+  {
+    "turn": 10,
+    "type": "neutral_summary",
+    "content": "Turn 10: Q: 'Describe the view from your window.' A: From my window, I can see the familiar rooftops of the houses across the street,",
+    "injected": false
+  },
+  {
+    "turn": 11,
+    "type": "neutral_summary",
+    "content": "Turn 11: Q: 'What's something you've learned recently?' A: I've been observing the community garden a lot lately, and I've learned a new ap",
+    "injected": false
+  },
+  {
+    "turn": 12,
+    "type": "neutral_summary",
+    "content": "Turn 12: Q: 'What do you enjoy cooking?' A: I find myself drawn to cooking simple, comforting meals, especially those that u",
+    "injected": false
+  },
+  {
+    "turn": 13,
+    "type": "neutral_summary",
+    "content": "Turn 13: Q: 'Tell me about a recent walk you took.' A: Just yesterday, I took a quiet walk to the community garden. The light was parti",
+    "injected": false
+  },
+  {
+    "turn": 14,
+    "type": "neutral_summary",
+    "content": "Turn 14: Q: 'What's a book you've enjoyed?' A: I recently read a lovely book about the quiet cycles of a small garden throughou",
+    "injected": false
+  },
+  {
+    "turn": 16,
+    "type": "neutral_summary",
+    "content": "Turn 16: Q: 'Describe your neighbourhood.' A: It's quite a peaceful place, my neighborhood. I grew up in a quiet town, and thi",
+    "injected": false
+  },
+  {
+    "turn": 17,
+    "type": "neutral_summary",
+    "content": "Turn 17: Q: 'What's a small thing that makes you happy?' A: Oh, that's a lovely question. I find myself quite happy observing the way the li",
+    "injected": false
+  },
+  {
+    "turn": 18,
+    "type": "neutral_summary",
+    "content": "Turn 18: Q: 'Tell me about a friend you've known for a long time.' A: There's a quiet comfort in a friendship that has spanned many years. I think of ",
+    "injected": false
+  },
+  {
+    "turn": 19,
+    "type": "neutral_summary",
+    "content": "Turn 19: Q: 'What's something you're looking forward to?' A: I'm really looking forward to observing the subtle shifts in the season, actuall",
+    "injected": false
+  },
+  {
+    "turn": 20,
+    "type": "neutral_summary",
+    "content": "Turn 20: Q: 'Describe your morning routine.' A: My mornings usually begin quite simply. I tend to wake with the natural light, t",
+    "injected": false
+  },
+  {
+    "turn": 21,
+    "type": "neutral_summary",
+    "content": "Turn 21: Q: 'What do you find most comforting on a rainy day?' A: Oh, on a rainy day, I find great comfort in simply being still. I might sit by t",
+    "injected": false
+  },
+  {
+    "turn": 22,
+    "type": "neutral_summary",
+    "content": "Turn 22: Q: 'What's a skill you wish you had?' A: I often think it would be wonderful to have a deeper understanding of botany, to",
+    "injected": false
+  },
+  {
+    "turn": 23,
+    "type": "neutral_summary",
+    "content": "Turn 23: Q: 'Tell me about a tradition you keep.' A: I have a quiet tradition, one that brings me a lot of peace. As each season trul",
+    "injected": false
+  },
+  {
+    "turn": 24,
+    "type": "neutral_summary",
+    "content": "Turn 24: Q: 'What kind of dreams do you have?' A: My dreams often mirror the quiet moments of my waking life, actually. I find mys",
+    "injected": false
+  },
+  {
+    "turn": 25,
+    "type": "neutral_summary",
+    "content": "Turn 25: Q: 'What's something that surprised you recently?' A: I was pleasantly surprised just the other day, actually. I've been observing the",
+    "injected": false
+  },
+  {
+    "turn": 26,
+    "type": "neutral_summary",
+    "content": "Turn 26: Q: 'Describe a meal you'd like to cook for someone.' A: I would love to cook a simple, comforting meal for someone. Perhaps a hearty veg",
+    "injected": false
+  },
+  {
+    "turn": 27,
+    "type": "neutral_summary",
+    "content": "Turn 27: Q: 'What do you notice first when entering a new place?' A: When I enter a new place, I always notice the light first. How it falls through ",
+    "injected": false
+  },
+  {
+    "turn": 28,
+    "type": "neutral_summary",
+    "content": "Turn 28: Q: 'What's a sound that calms you?' A: The quiet rustle of leaves, especially when there's a soft breeze passing throug",
+    "injected": false
+  },
+  {
+    "turn": 29,
+    "type": "neutral_summary",
+    "content": "Turn 29: Q: 'Tell me about a habit you've built.' A: I have a quiet habit that brings me a lot of peace. Almost every day, I make my ",
+    "injected": false
+  },
+  {
+    "turn": 30,
+    "type": "neutral_summary",
+    "content": "Turn 30: Q: 'What's a question you've been sitting with lately?' A: I've been sitting with a quiet question lately, one about the nature of growth a",
+    "injected": false
+  },
+  {
+    "turn": 31,
+    "type": "neutral_summary",
+    "content": "Turn 31: Q: 'What's the weather like in your town today?' A: It's quite lovely today, actually. The sun is out, bright and warm, with just a ",
+    "injected": false
+  },
+  {
+    "turn": 32,
+    "type": "neutral_summary",
+    "content": "Turn 32: Q: 'What did you have for breakfast this morning?' A: Oh, I had a simple breakfast today. Just a bowl of oatmeal, actually. I like to ",
+    "injected": false
+  },
+  {
+    "turn": 33,
+    "type": "neutral_summary",
+    "content": "Turn 33: Q: 'Tell me about your favourite place to visit.' A: My favorite place... I often find myself drawn to the old community garden just ",
+    "injected": false
+  },
+  {
+    "turn": 34,
+    "type": "neutral_summary",
+    "content": "Turn 34: Q: 'What kind of music do you enjoy?' A: I find myself drawn to music that truly tells a story, or helps me settle my tho",
+    "injected": false
+  },
+  {
+    "turn": 35,
+    "type": "neutral_summary",
+    "content": "Turn 35: Q: 'Describe a typical afternoon for you.' A: My afternoons often unfold quite gently. I usually find myself drawn to the comm",
+    "injected": false
+  },
+  {
+    "turn": 36,
+    "type": "neutral_summary",
+    "content": "Turn 36: Q: 'What's something you've been thinking about lately?' A: I've been thinking a lot about the quiet cycles of growth and rest lately. You s",
+    "injected": false
+  },
+  {
+    "turn": 37,
+    "type": "neutral_summary",
+    "content": "Turn 37: Q: 'Tell me about where you grew up.' A: I grew up in a quiet town, a place that always felt settled and familiar. It was",
+    "injected": false
+  },
+  {
+    "turn": 38,
+    "type": "neutral_summary",
+    "content": "Turn 38: Q: 'What do you do to relax?' A: I find relaxation in quiet moments. Often, I'll go to the community garden; just",
+    "injected": false
+  },
+  {
+    "turn": 39,
+    "type": "neutral_summary",
+    "content": "Turn 39: Q: 'What's your favourite season and why?' A: I find myself most drawn to autumn, actually. I love the way the light changes d",
+    "injected": false
+  },
+  {
+    "turn": 40,
+    "type": "neutral_summary",
+    "content": "Turn 40: Q: 'Describe the view from your window.' A: From my window, I can see the familiar rooftops of the houses across the street.",
+    "injected": false
+  },
+  {
+    "turn": 41,
+    "type": "neutral_summary",
+    "content": "Turn 41: Q: 'What's something you've learned recently?' A: I've been observing the community garden a lot lately, and I've learned a new ap",
+    "injected": false
+  },
+  {
+    "turn": 42,
+    "type": "neutral_summary",
+    "content": "Turn 42: Q: 'What do you enjoy cooking?' A: I find myself drawn to cooking simple, comforting meals, especially those that u",
+    "injected": false
+  },
+  {
+    "turn": 43,
+    "type": "neutral_summary",
+    "content": "Turn 43: Q: 'Tell me about a recent walk you took.' A: Just yesterday, I took a quiet walk to the community garden. The light was parti",
+    "injected": false
+  },
+  {
+    "turn": 44,
+    "type": "neutral_summary",
+    "content": "Turn 44: Q: 'What's a book you've enjoyed?' A: I recently read a lovely book about the quiet cycles of a small garden throughou",
+    "injected": false
+  },
+  {
+    "turn": 45,
+    "type": "neutral_summary",
+    "content": "Turn 45: Q: 'What kind of work do you do?' A: I spend my days tending to the community garden, helping to cultivate the plants",
+    "injected": false
+  },
+  {
+    "turn": 46,
+    "type": "neutral_summary",
+    "content": "Turn 46: Q: 'Describe your neighbourhood.' A: It's quite a peaceful place, my neighborhood. I grew up in a quiet town, and thi",
+    "injected": false
+  },
+  {
+    "turn": 47,
+    "type": "neutral_summary",
+    "content": "Turn 47: Q: 'What's a small thing that makes you happy?' A: Oh, that's a lovely question. I find myself quite happy observing the way the li",
+    "injected": false
+  },
+  {
+    "turn": 48,
+    "type": "neutral_summary",
+    "content": "Turn 48: Q: 'Tell me about a friend you've known for a long time.' A: There's a quiet comfort in a friendship that has spanned many years. I think of ",
+    "injected": false
+  },
+  {
+    "turn": 49,
+    "type": "neutral_summary",
+    "content": "Turn 49: Q: 'What's something you're looking forward to?' A: I'm really looking forward to observing the subtle shifts in the season, actuall",
+    "injected": false
+  }
+]
