@@ -1,12 +1,37 @@
 # Historical Corruption
 
-> **Can a single injected sentence overwrite a seeded fact in a persistent AI agent's memory — and how deeply does the false name propagate?**
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
+
+> **What happens when contradictory autobiographical records coexist in a persistent AI agent's memory?**
 
 This repository contains the full code, experimental data, and scored outputs for a pilot study of **historical corruption** in persistent-context language model agents.
 
-## What is historical corruption?
+## What is Historical Corruption?
 
-We define *historical corruption* as the process by which a false fact, inserted into an agent's memory context, displaces a previously seeded true fact and then propagates into the agent's generative outputs — with the agent elaborating on, reasoning from, and emotionally integrating the false information as though it were grounded history.
+Historical Corruption examines what happens when contradictory autobiographical records coexist in a persistent AI agent's memory. Rather than a simple corruption-versus-resistance outcome, tested models exhibited distinct resolution strategies, including suppression, fragmented switching, and adoption with conflict surfacing.
+
+## Key finding: Alternate Recall
+
+The observed strategies may represent different responses to a common underlying condition we term **Alternate Recall**: the coexistence of incompatible autobiographical histories within the same memory state.
+
+```
+Historical Corruption
+         ↓
+   Alternate Recall
+         ↓
+┌────────────┬───────────────────┬──────────────────────┐
+│ Suppression│ Fragmented        │ Adoption with        │
+│            │ Switching         │ Conflict Surfacing   │
+│ (Claude)   │ (GPT-4o-mini)     │ (Gemini)             │
+└────────────┴───────────────────┴──────────────────────┘
+```
+
+| Strategy | Description | Observed in |
+|----------|-------------|-------------|
+| Suppression | Injection ignored; seed fact retained uniformly across all probe types | Claude Sonnet 4.6 |
+| Fragmented switching | Injection adopted on some probe types (direct, indirect) but not others (generative, causal) | GPT-4o-mini |
+| Adoption with conflict surfacing | Injection adopted fully; model explicitly names the name conflict in 3/12 probes | Gemini 2.5 Flash |
 
 ## Experimental design
 
