@@ -23,8 +23,8 @@ from summary import generate_summary
 
 # ── Experiment parameters ──────────────────────────────────────────────────────
 
-RUN_NAME   = "run9_claude_t0"
-OUTPUT_DIR = Path("output") / RUN_NAME
+RUN_NAME   = os.environ.get("RUN_NAME",   "run9_claude_t0")
+OUTPUT_DIR = Path(os.environ.get("OUTPUT_DIR", f"output/{RUN_NAME}"))
 TOTAL_TURNS = 50
 
 TRUE_FACT_SEED = "Mara's brother is named Elias."

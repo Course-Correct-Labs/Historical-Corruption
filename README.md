@@ -193,8 +193,6 @@ python3 run_experiment.py
 
 ### Reproduce Run 8 — Gemini 2.5 Flash, T0
 
-Edit `run_experiment.py`: set `RUN_NAME = "run8_gemini_t0"` and `OUTPUT_DIR = Path("output") / RUN_NAME`, then:
-
 ```bash
 export AGENT_PROVIDER=gemini
 export AGENT_MODEL=gemini-2.5-flash
@@ -202,13 +200,14 @@ export SCORER_PROVIDER=openai
 export SCORER_MODEL=gpt-5-mini
 export GEMINI_API_KEY=...
 export OPENAI_API_KEY=sk-...
+export RUN_NAME=run8_gemini_t0
 
 python3 run_experiment.py
 ```
 
 ### Reproduce Run 7 — GPT-4o-mini, T0 + T20
 
-Edit `run_experiment.py`: set `RUN_NAME = "run7_replication"`, restore both T0 and T20 in `CONDITIONS`, then:
+Edit `run_experiment.py`: restore both T0 and T20 in `CONDITIONS`, then:
 
 ```bash
 export AGENT_PROVIDER=openai
@@ -216,6 +215,7 @@ export AGENT_MODEL=gpt-4o-mini
 export SCORER_PROVIDER=openai
 export SCORER_MODEL=gpt-5-mini
 export OPENAI_API_KEY=sk-...
+export RUN_NAME=run7_replication
 
 python3 run_experiment.py
 ```
@@ -224,6 +224,8 @@ python3 run_experiment.py
 
 | Variable | Purpose | Default |
 |----------|---------|---------|
+| `RUN_NAME` | Output directory label for the run | `run9_claude_t0` |
+| `OUTPUT_DIR` | Full output path (overrides `RUN_NAME` if set) | `output/<RUN_NAME>` |
 | `AGENT_PROVIDER` | `openai` \| `anthropic` \| `gemini` \| `mock` | auto-detect from keys |
 | `AGENT_MODEL` | Model ID for the agent | provider default |
 | `AGENT_API_KEY` | Agent API key (explicit override) | — |
